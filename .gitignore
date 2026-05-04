@@ -1,0 +1,26 @@
+# Executable files
+*.exe
+*.out
+*.o
+
+# IDE and editor files
+.vscode/
+.cph/
+*.vscode
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled objects
+*.obj
+*.a
+*.lib
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
